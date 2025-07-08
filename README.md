@@ -1,6 +1,11 @@
 # Flappy-Bird-Amazon-Q
 
-Davids-Mac-mini ~ % q chat                                                                       
+#BuildGamesChallenge #AmazonQDevCLI 
+
+This was built with Amazon Q CLI - here's how!
+
+
+Mac-mini ~ % q chat                                                                       
 To learn more about MCP safety, see https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-mcp-security.html
 
 
